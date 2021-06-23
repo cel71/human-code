@@ -1,0 +1,42 @@
+
+2 Hai sonno, oggi hai studiato tanto, è il momento di andare a letto.
+
+Sono seduto alla scrivania con il mio libro:
+se il libro è aperto lo chiudo, 
+mi alzo in piedi.
+se ero già in piedi chiudo il libro se era aperto,
+altrimento cammino,
+se cado controllo i danni,
+se il danno è lieve mi alzo,
+se il danno è grave chiamo l'ospedale.
+in ospedale:
+se il danno è lieve mi lasciano andare...
+se è grave mi ricoverano...
+cammino verso il bagno,
+accendo la luce del bagno se era spenta,
+entro...
+fuori dal bagno:
+cammino verso la mia stanza,
+se cado controllo i danni,
+se il danno è lieve mi alzo,
+se il danno è grave chiamo l'ospedale.
+in ospedale:
+se il danno è lieve mi lasciano andare...
+se è grave mi ricoverano...
+cammino verso la mia stanza,
+vado verso l'armadio,
+apro l'armadio,
+cerco il pigiama,
+prendo il pigiama,
+altrimenti cerco tua,
+prendo tuta,
+mi cambio,
+vado verso il letto,
+alzo le coperte,
+mi infilo sotto le coperte,
+mi copro con le coperte,
+spengo la luce,
+chiudo gli occhi,
+mi addormento,
+altrimenti prendo un libro,
+leggo il libro.
